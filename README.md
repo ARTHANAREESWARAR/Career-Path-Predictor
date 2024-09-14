@@ -23,9 +23,7 @@
   
   𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: MySQL
   
-𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝
-
-  Prerequisites
+𝐏𝐫𝐞𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
   
   Python 3.x
   
@@ -38,20 +36,25 @@
   Web Server (e.g., Apache, Nginx)
 
 𝐂𝐥𝐨𝐧𝐞 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
+
   git clone https://github.com/yourusername/CareerPathPredictor.git
   cd CareerPathPredictor
 
 𝐒𝐞𝐭 𝐮𝐩 𝐭𝐡𝐞 𝐯𝐢𝐫𝐭𝐮𝐚𝐥 𝐞𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭:
+
   python3 -m venv venv
   source venv/bin/activate
 
 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐏𝐲𝐭𝐡𝐨𝐧 𝐝𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬:
+
     pip install -r requirements.txt
 
 𝐒𝐞𝐭 𝐮𝐩 𝐭𝐡𝐞 𝐌𝐲𝐒𝐐𝐋 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞:
+
     mysql -u username -p careerpathpredictor < schema.sql
 
 𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧:
+
     Edit the config.py file to include your MySQL database credentials.
 
 𝐅𝐮𝐭𝐮𝐫𝐞 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬
