@@ -25,15 +25,15 @@
   
 𝐏𝐫𝐞𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
   
-  Python 3.x
+  > Python 3.x
   
-  MySQL
+  > MySQL
   
-  PHP
+  > PHP
   
-  Flask
+  > Flask
   
-  Web Server (e.g., Apache, Nginx)
+  > Web Server (e.g., Apache, Nginx)
 
 𝐂𝐥𝐨𝐧𝐞 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
 
